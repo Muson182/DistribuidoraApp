@@ -1,0 +1,1 @@
+"Aplicación Java básica para una distribuidora de alimentos que calcula el costo de despacho según el monto de compra y distancia. Permite ingresar datos del vehículo y muestra los resultados en consola. Desarrollada sin IDE, usando javac y la Máquina Virtual de Java (JVM)."
