@@ -1,0 +1,39 @@
+# DistribuidoraApp
+
+Este proyecto es una aplicación Java simple que permite a los usuarios registrar información sobre vehículos y calcular costos de despacho según las reglas del negocio.
+
+## Instrucciones de Instalación
+
+1. **Descargar e Instalar el JDK**:
+   - Visita la página de descargas de Oracle Java SE: [Oracle JDK Downloads](https://www.oracle.com/cl/java/technologies/javase/javase-jdk8-downloads.html).
+   - Descarga e instala la versión correspondiente del JDK para tu sistema operativo.
+
+2. **Configurar el Entorno**:
+   - Asegúrate de que las variables de entorno `JAVA_HOME` y `PATH` estén configuradas correctamente para que el compilador de Java (javac) y la máquina virtual Java (java) puedan ejecutarse desde la línea de comandos.
+
+## Compilación y Ejecución
+
+1. **Compilar el Código**:
+   - Abre una terminal o línea de comandos.
+   - Navega al directorio donde se encuentra el archivo `VehiculoYUsuarioInfo.java`.
+   - Ejecuta el siguiente comando para compilar el código:
+     ```
+     javac VehiculoYUsuarioInfo.java
+     ```
+
+2. **Ejecutar el Programa**:
+   - Después de compilar, ejecuta el programa con:
+     ```
+     java VehiculoYUsuarioInfo
+     ```
+
+## Requerimientos del Proyecto
+
+- **Funcionales**: 
+  - Permitir la entrada de datos del vehículo y del usuario.
+  - Calcular el costo del despacho basado en la información proporcionada.
+
+- **No Funcionales**:
+  - El programa debe ser ejecutable en cualquier máquina con JDK instalado.
+  - Debe ser fácil de usar y entender para los usuarios finales.
+
